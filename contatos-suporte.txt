@@ -1,0 +1,19 @@
+Nome	              Telefone	                    E-mail
+
+Lucas Oliveira	   (11) 99000-1482	lucas.oliveira@exemplo.com.br
+Mariana Santos	   (21) 99000-3851	mariana.santos@exemplo.com.br
+Gabriel Costa	   (31) 99000-7294	gabriel.costa@exemplo.com.br
+Camila Almeida 	   (41) 99000-5109	camila.almeida@exemplo.com.br
+Rafael Pereira	   (51) 99000-8420	rafael.pereira@exemplo.com.br
+Juliana Rodrigues  (61) 99000-2967	juliana.rodrigues@exemplo.com.br
+Matheus Ferreira   (71) 99000-6315	matheus.ferreira@exemplo.com.br
+Beatriz Alves	   (81) 99000-9043	beatriz.alves@exemplo.com.br
+Pedro Lima	   (85) 99000-1758	pedro.lima@exemplo.com.br
+Larissa Gomes	   (79) 99000-4621	larissa.gomes@exemplo.com.br
+Thiago Ribeiro	   (62) 99000-8139	thiago.ribeiro@exemplo.com.br
+Fernanda Martins   (91) 99000-3574	fernanda.martins@exemplo.com.br
+Bruno Carvalho	   (27) 99000-6902	bruno.carvalho@exemplo.com.br
+Amanda Souza	   (48) 99000-2186	amanda.souza@exemplo.com.br
+Felipe Barbosa	   (19) 99000-5847	felipe.barbosa@exemplo.com.br
+
+
